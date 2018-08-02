@@ -1,7 +1,7 @@
-#### Actual behavior and Expected behavior:
+#### Actual behavior & Expected behavior:
 
 #### Steps to reproduce:
 
-#### Screenshots and Files
+#### Screenshots and Files:
    
 
