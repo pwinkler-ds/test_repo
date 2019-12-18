@@ -1,7 +1,10 @@
 #### Actual behavior & Expected behavior:
 
 
-#### Steps to reproduce:
+#### Steps to Reproduce:
+
+
+#### Proposed Solution:
 
 
 #### Attachements:
